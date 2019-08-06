@@ -22,4 +22,11 @@ fork and open a PR to this repo, and edit this file to link to your lambdata.
 **My lambdata repository**: *you edit here*
 
 ## :point_right: Logs
-2019-08-05 repo forked  
+2019-08-05   
+repo forked  
+
+create my own python packages  
+https://github.com/Nov05/python-packages  
+
+manage environment  
+https://github.com/Nov05/Lambda-School-Data-Science/tree/master/miscellaneous  
